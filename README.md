@@ -22,10 +22,10 @@ This project was developed with the following technologies:
 🖥️ MySQL Workbench 8.0 CE
 
 ## Clone this repository  
-git clone https://github.com/capricelima/Protein_DataBase.git  
+git clone https://github.com/capricelima/Protein_DataBase_MySQL.git  
 
 ## Enter the directory 
-cd Protein_DataBase  
+cd Protein_DataBase_MySQL  
 
 ## 📝 License
 This project is unlicensed and is free to use.
